@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf.8"?>
+<?xml-stylesheet type="text/css" href="4a.css"?>
+<student-info >
+<student>
+<h2>STUDENT:1</h2>
+<label>USN:<reg>2TG06IS006</reg></label>
+<label>NAME:<name>sachin</name></label>
+<label>COL:<col>TCE</col></label>
+<label>BRANCH:<branch>ISE</branch></label>
+<label>YEAR:<year>2006</year></label>
+<label>EMAIL:<email>sachin@gmail.com</email></label>
+</student>
+<student>
+<h2>STUDENT:2</h2>
+<label>USN:<reg>2tg05is022</reg></label>
+<label>NAME:<name>Nagu</name></label>
+<label>COL:<col>TCE</col></label>
+<label>BRANCH:<branch>ISE</branch></label>
+<label>YEAR:<year>2005</year></label>
+<label>EMAIL:<email>Nagu@rediffmail.com</email></label>
+</student>
+<student>
+<h2>STUDENT:3</h2>
+<label>USN:<reg>2tg07is029</reg></label>
+<label>NAME:<name>raj</name></label>
+<label>COL:<col>TCE</col></label>
+<label>BRANCH:<branch>ISE</branch></label>
+<label>YEAR:<year>2007</year></label>
+<label>EMAIL:<email>raj@yahoo.com</email></label>
+</student>
+</student-info>
